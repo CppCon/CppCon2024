@@ -26,6 +26,7 @@ and code from [CppCon 2024](https://cppcon.org).
 - [Composing Ancient Mathematical Knowledge Into Powerful Bit-Fiddling Techniques](Presentations/Composing_Ancient_Mathematical_Knowledge_Into_Powerful_Bit-fiddling.pdf) by Jamie Pond
 - [How Meta Made Debugging Async Code Easier with Coroutines and Senders](Presentations/How_Meta_Made_Debugging_Async_Code_Easier_with_Coroutines_and_Senders.pdf) by Ian Petersen & Jessica Wong
 - [Multi Producer, Multi Consumer, Lock Free, Atomic Queue - User API and Implementation](Presentations/Multi_Producer_Multi_Consumer_Lock_Free_Atomic_Queue.pdf) by Erez Strauss
+- [Back to Basics: Function Call Resolution](Back_to_Basics_Function_Call_Resolution.pdf) by Ben Saks
 - [Relocation: Blazing Fast Save And Restore, Then More!](Presentations/Relocation.pdf) by Eduardo Madrid
 - [What’s Eating my RAM?](Presentations/What’s_eating_my_RAM.pdf) by Jianfei Pan
 - [C++ Exceptions for Smaller Firmware](Presentations/Cpp_Exceptions_For_Smaller_Firmware.pdf) by Khalil Estell
@@ -58,6 +59,7 @@ and code from [CppCon 2024](https://cppcon.org).
 - [Reusable Code, Reusable Data Structures](Presentations/Reusable_Code_Reusable_Data_Structures.pdf) by Sebastian Theophil
 - [Beyond Compilation Databases to Support C++ Modules: Build Databases](Presentations/Beyond_Compilation_Databases_to_Support_Cpp_Modules.pdf) by Ben Boeckel
 - [Hiding your Implementation Details is Not So Simple](Presentations/Hiding_your_Implementation_Details_is_Not_So_Simple.pdf) by Amir Kirsh
+- [Adventures with Legacy Codebases: Tales of Incremental Improvement](Adventures_With_Legacy_Codebases.pdf) by Roth Michaels
 - [Making Hard Tests Easy: A Case Study From the Motion Planning Domain](https://chogg.name/cppcon-2024-making-hard-tests-easy/) by Chip Hogg
 - [Deciphering C++ Coroutines - Mastering Asynchronous Control Flow](Presentations/Deciphering_Cpp_Coroutines.pdf) by Andreas Weis
 - [Mix Assertion, Logging, Unit Testing and Fuzzing: Build Safer Modern C++ Application](Presentations/Mix_Assertion_Logging_Unit_Testing_and_Fuzzing.pdf) by Xiaofan Sun
