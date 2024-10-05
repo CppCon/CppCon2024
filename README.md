@@ -10,8 +10,10 @@ and code from [CppCon 2024](https://cppcon.org).
 
 - [Peering Forward — C++’s Next Decade](Presentations/Peering_Forward_Cpps_Next_Decade.pdf) by Herb Sutter
 - [Security Beyond Memory Safety - Using Modern C++ to Avoid Vulnerabilities by Design](Presentations/Security_Beyond_Memory_Safety.pdf) by Max Hoffmann
+- [What Volatile Means (and Doesn’t Mean)](Presentations/What_Volatile_Means_(and_Doesn't_Mean).pdf) by Ben Saks
 - [Creating a Sender/Receiver HTTP Server](Presentations/Creating_a_Sender_Receiver_HTTP_Server.pdf) by Dietmar Kühl
 - [Back to Basics: Unit Testing](Presentations/Back_to_Basics_Unit_Testing.pdf) by Dave Steffen
+- [When Lock-Free Still Isn't Enough: An Introduction to Wait-Free Programming and Concurrency Techniques](When_Lock-Free_Still_Isn't_Enough.pdf) by Daniel Anderson
 - [Message Handling with Boolean Algebra](Presentations/Message_Handling_with_Boolean_Algebra.pdf) by Ben Deane
 - [So You Think You Can Hash](Presentations/So_You_Think_You_Can_Hash.pdf) by Victor Ciura
 - [Back to Basics: Almost Always Vector?](Presentations/Back_to_Basics_Unit_Testing.pdf) by Kevin Carpenter
@@ -26,8 +28,9 @@ and code from [CppCon 2024](https://cppcon.org).
 - [Composing Ancient Mathematical Knowledge Into Powerful Bit-Fiddling Techniques](Presentations/Composing_Ancient_Mathematical_Knowledge_Into_Powerful_Bit-fiddling.pdf) by Jamie Pond
 - [How Meta Made Debugging Async Code Easier with Coroutines and Senders](Presentations/How_Meta_Made_Debugging_Async_Code_Easier_with_Coroutines_and_Senders.pdf) by Ian Petersen & Jessica Wong
 - [Multi Producer, Multi Consumer, Lock Free, Atomic Queue - User API and Implementation](Presentations/Multi_Producer_Multi_Consumer_Lock_Free_Atomic_Queue.pdf) by Erez Strauss
-- [Back to Basics: Function Call Resolution](Back_to_Basics_Function_Call_Resolution.pdf) by Ben Saks
+- [Back to Basics: Function Call Resolution](Presentations/Back_to_Basics_Function_Call_Resolution.pdf) by Ben Saks
 - [Relocation: Blazing Fast Save And Restore, Then More!](Presentations/Relocation.pdf) by Eduardo Madrid
+- [Reflection Based Libraries to Look Forward to](Presentations/Reflection_Based_Libraries_to_Look_Forward_To.pdf) by Saksham Sharma
 - [What’s Eating my RAM?](Presentations/What’s_eating_my_RAM.pdf) by Jianfei Pan
 - [C++ Exceptions for Smaller Firmware](Presentations/Cpp_Exceptions_For_Smaller_Firmware.pdf) by Khalil Estell
 - [Fast and Small C++ - When Efficiency Matters](Presentations/Fast_and_small_cpp) by Andreas Fertig
@@ -38,6 +41,7 @@ and code from [CppCon 2024](https://cppcon.org).
 - [Design Patterns - The Most Common Misconceptions (Presentations/2 of N)](Presentations/Design_Patterns.pdf) by Klaus Iglberger
 - [Application of C++ in Computational Cancer Modeling](Presentations/Application_Of_Computational_Cancer_Modeling.pdf) by Ruibo Zhang
 - [Unraveling string_view: Basics, Benefits, and Best Practices](Presentations/Unraveling_string_view.pdf) by Jasmine Lopez & Prithvi Okade
+- [Compile-Time Validation](Presentations/Compile-Time_Validation.pdf) by Alon Wolf
 - [Techniques to Optimise Multithreaded Data Building During Game Development](Presentations/Techniques_to_Optimise_Multithreaded_Data_Building_During_Game_Development.pdf) by Dominik Grabiec
 - [10 Problems Large Companies Have with Managing C++ Dependencies and How to Solve Them](Presentations/10_Problems_Large_Companies_Have_with_Managing_Cpp_Dependencies_and_How_to_Solve_Them.pdf) by Augustin Popa
 - [Vectorizing a CFD Code With `std::simd` Supplemented by (Presentations/Almost) Transparent Loading and Storing](Presentations/Vectorizing_a_CFD_Code_With_stdsimd.pdf) by Olaf Krzikalla
@@ -58,8 +62,9 @@ and code from [CppCon 2024](https://cppcon.org).
 - [Building Safe and Reliable Surgical Robotics with C++](Presentations/Building_Safe_and_Reliable_Surgical_Robotics_using_Cpp.pdf) by Milad Khaledyan
 - [Reusable Code, Reusable Data Structures](Presentations/Reusable_Code_Reusable_Data_Structures.pdf) by Sebastian Theophil
 - [Beyond Compilation Databases to Support C++ Modules: Build Databases](Presentations/Beyond_Compilation_Databases_to_Support_Cpp_Modules.pdf) by Ben Boeckel
+- [Modern C++ Error Handling](Presentations/Modern_Cpp_Error_Handling.pdf) by Phil Nash
 - [Hiding your Implementation Details is Not So Simple](Presentations/Hiding_your_Implementation_Details_is_Not_So_Simple.pdf) by Amir Kirsh
-- [Adventures with Legacy Codebases: Tales of Incremental Improvement](Adventures_With_Legacy_Codebases.pdf) by Roth Michaels
+- [Adventures with Legacy Codebases: Tales of Incremental Improvement](Presentations/Adventures_With_Legacy_Codebases.pdf) by Roth Michaels
 - [Making Hard Tests Easy: A Case Study From the Motion Planning Domain](https://chogg.name/cppcon-2024-making-hard-tests-easy/) by Chip Hogg
 - [Deciphering C++ Coroutines - Mastering Asynchronous Control Flow](Presentations/Deciphering_Cpp_Coroutines.pdf) by Andreas Weis
 - [Mix Assertion, Logging, Unit Testing and Fuzzing: Build Safer Modern C++ Application](Presentations/Mix_Assertion_Logging_Unit_Testing_and_Fuzzing.pdf) by Xiaofan Sun
@@ -68,11 +73,13 @@ and code from [CppCon 2024](https://cppcon.org).
 - [When Nanoseconds Matter: Ultrafast Trading Systems in C++](Presentations/When_Nanoseconds_Matter.pdf) by David Gross
 - [Why is my Build so Slow? Compilation Profiling and Visualization](Presentations/Why_is_my_Build_so_Slow.pdf) by Samuel Privett
 - [Limitations and Problems in std::function and Similar Constructs: Mitigations and Alternatives](Presentations/Limitations_and_Problems_in_StdFunction_and_Similar.pdf) by Amandeep Chawla
+- [Back to Basics: Lifetime Management](Presentations/Back_to_Basics_Lifetime_Management.pdf) by Phil Nash
 - [Sender Patterns to Wrangle Concurrency in Embedded Devices](Presentations/Sender_Patterns_to_Wrangle_Concurrency_in_Embedded_Devices.pdf) by Michael Caisse
 - [To Int or to Uint, This is the Question](Presentations/To_Int_or_to_Uint_This_is_the_Question.pdf) by Alex Dathskovsky
 - [Blazing Trails: Building the World's Fastest GameBoy Emulator in Modern C++](Presentations/Blazing_Trails.pdf) by Tom Tesch
 - [What’s new for Visual Studio Code: Performance, GitHub Copilot, and CMake Enhancements](Presentations/What's_New_For_Visual_Studio_Code.pdf) by Sinem Akinci & Alexandra Kemper
 - [High-Performance Cross-Platform Architecture: C++ 20 Innovations](Presentations/High_Performance_Cross_Platform_Architecture.pdf) by Noah Stein
+- [What's New in Visual Studio for C++ Developers](Presentations/What's_New_in_Visual_Studio_For_Cpp_Developers.pdf) by Michael Price & Mryam Girmay
 - [Implementing Particle Filters with Ranges](Presentations/Implementing_Particle_Filters_with_Ranges.pdf) by Nahuel Espinosa
 - [Monadic Operations in Modern C++: A Practical Approach](Presentations/Monadic_Operations_in_Modern_Cpp.pdf) by Vitaly Fanaskov
 - [A Simple Rollback System in C++: The Secret Behind Online Multiplayer Games](Presentations/A_Simple_Rollback_System_In_Cpp.pdf) by Elias Farhan
