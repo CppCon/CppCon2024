@@ -19,7 +19,7 @@ and code from [CppCon 2024](https://cppcon.org).
 - [Back to Basics: Almost Always Vector?](Presentations/Back_to_Basics_Unit_Testing.pdf) by Kevin Carpenter
 - [Common Package Specification (Presentations/CPS) in practice: A full round trip implementation in Conan C++ package manager](Presentations/Common_Package_Specification_In_Practice.pdf) by Diego Rodriguez-Losada Gonzalez
 - [The Most Important Design Guideline is Testability](Presentations/The_Most_Important_Design_Guideline_is_Testability.pdf) by Jody Hagins
-- [Many Ways to Kill an Orc (Presentations/or a Hero)](Presentations/Many_Ways_to_Kill_an_Orc_(Presentations/or_a_Hero).pdf) by Patrice Roy
+- [Many Ways to Kill an Orc (or a Hero)](Presentations/Many_Ways_to_Kill_an_Orc_(Presentations/or_a_Hero).pdf) by Patrice Roy
 - [Bridging the Gap: Writing Portable Programs for CPU and GPU](Presentations/Bridging_the_Gap.pdf) by Thomas Mejstrik
 - [Can You RVO? Using Return Value Optimization for Performance in Bloomberg C++ Codebases](Presentations/Can_You_RVO.pdf) by Michelle Fae D'Souza
 - [LLVM's Realtime Safety Revolution: Tools for Modern Mission Critical Systems](Presentations/LLVMs_Realtime_Safety_Revolution.pdf) by Christopher Apple & David Trevelyan
@@ -44,8 +44,9 @@ and code from [CppCon 2024](https://cppcon.org).
 - [Compile-Time Validation](Presentations/Compile-Time_Validation.pdf) by Alon Wolf
 - [Techniques to Optimise Multithreaded Data Building During Game Development](Presentations/Techniques_to_Optimise_Multithreaded_Data_Building_During_Game_Development.pdf) by Dominik Grabiec
 - [10 Problems Large Companies Have with Managing C++ Dependencies and How to Solve Them](Presentations/10_Problems_Large_Companies_Have_with_Managing_Cpp_Dependencies_and_How_to_Solve_Them.pdf) by Augustin Popa
-- [Vectorizing a CFD Code With `std::simd` Supplemented by (Presentations/Almost) Transparent Loading and Storing](Presentations/Vectorizing_a_CFD_Code_With_stdsimd.pdf) by Olaf Krzikalla
+- [Vectorizing a CFD Code With `std::simd` Supplemented by (Almost) Transparent Loading and Storing](Presentations/Vectorizing_a_CFD_Code_With_stdsimd.pdf) by Olaf Krzikalla
 - [Using Modern C++ to Build XOffsetDatastructure: A Zero-Encoding and Zero-Decoding High-Performance Serialization Library in the Game Industry](Presentations/Using_Modern_Cpp_to_Build_XOffsetDatastructure.pdf) by Fanchen Su
+- [Taming the C++ Filter View](Presentations/Taming_the_Cpp_Filter_View.pdf) by Nicolai Josuttis
 - [Designing C++ Code Generator Guardrails: A Collaboration Among Outreach and Development Teams and Users](Presentations/Designing_Cpp_Code_Generator_Guardrails.pdf) by CB Bailey & Sherry Sontag
 - [Coroutines and Structured Concurrency in Practice](Presentations/Coroutines_and_Structured_Concurrency_in_Practice.pdf) by Dmitry Prokoptsev
 - [Building Cppcheck - What We Learned from 17 Years of Development](Presentations/Building_Cppcheck.pdf) by Daniel Marjamäki
@@ -56,6 +57,7 @@ and code from [CppCon 2024](https://cppcon.org).
 - [Dependency Injection in C++ : A Practical Guide](Presentations/Dependency_Injection_in_Cpp.pdf) by Peter Muldoon
 - [Contracts for C++](Presentations/Contracts_For_Cpp.pdf) by Timur Doumler
 - [Secrets of C++ Scripting Bindings: Bridging Compile Time and Run Time](Presentations/Secrets_of_Cpp_Scripting_Bindings.pdf) by Jason Turner
+- [Back to Basics: Concepts](Presentations/Back_To_Basics_Concepts.pdf) by Nicolai Josuttis
 - [Designing a Slimmer Vector of Variants](Presentations/Designing_a_Slimmer_Vector_of_Variants.pdf) by Christopher Fretz
 - [C++ Under the Hood: Internal Class Mechanisms](Presentations/Cpp_Under_The_Hood.pdf) by Chris Ryan
 - [The Beman Project: Bringing Standard Libraries to the Next Level](Presentations/The_Beman_Project.pdf) by David Sankel
@@ -103,4 +105,13 @@ and code from [CppCon 2024](https://cppcon.org).
 - [A New Dragon in the Den: Fast Conversion From Floating-Point Numbers](Presentations/A_New_Dragon_in_the_Den.pdf) by Cassio Neri
 - [Data Structures That Make Video Games Go Round](Presentations/Data_Structures_That_Make_Video_Games_Go_Round.pdf) by Al-Afiq Yeong
 - [This is C++](Presentations/This_is_Cpp.pdf) by Jon Kalb
-- [Code Generation from Unified Robot Description Format (Presentations/URDF) for Accelerated Robotics](Presentations/Code_Generation_from_Unified_Robot_Description_Format_for_Accelerated_Robotics.pdf) by Paul Gesel
+- [Code Generation from Unified Robot Description Format (URDF) for Accelerated Robotics](Presentations/Code_Generation_from_Unified_Robot_Description_Format_for_Accelerated_Robotics.pdf) by Paul Gesel
+- [Gazing Beyond Reflection for C++26](Presentations/Gazing_Beyond_Reflection_for_Cpp26.pdf) by Daveed Vandevoorde
+
+## Lightning Talks
+
+- [A Primer On Initialization](Lightning%20Talks/A_Primer_On_Initialization.pdf) by Steven Arellano
+- [Amortized O(1) Complexity](Lightning%20Talks/Amortized_Complexity.pdf) by Andreas Weis
+- [C++ in the Cloud: One NIF at a Time with Elixir](Lightning%20Talks/Cpp_in_the_Cloud.pdf) by Sakshi Verma
+- [Can't we just synthesize std::tuple_element from get?](Lightning%20Talks/Can't_we_Just_Synthesize_stdtuple_element_from_Get.pdf) by Jonathan Müller
+- [The Main Points of C++](Lightning%20Talks/The_Main_Points_of_Cpp.pdf) by Miodrag Misha Djukic
