@@ -67,9 +67,11 @@ and code from [CppCon 2024](https://cppcon.org).
 - [Modern C++ Error Handling](Presentations/Modern_Cpp_Error_Handling.pdf) by Phil Nash
 - [Hiding your Implementation Details is Not So Simple](Presentations/Hiding_your_Implementation_Details_is_Not_So_Simple.pdf) by Amir Kirsh
 - [Adventures with Legacy Codebases: Tales of Incremental Improvement](Presentations/Adventures_With_Legacy_Codebases.pdf) by Roth Michaels
+- [Reflection Is Not Contemplation](Presentations/Reflection_Is_Not_Contemplation.pdf) by Andrei Alexandrescu
 - [Making Hard Tests Easy: A Case Study From the Motion Planning Domain](https://chogg.name/cppcon-2024-making-hard-tests-easy/) by Chip Hogg
 - [Deciphering C++ Coroutines - Mastering Asynchronous Control Flow](Presentations/Deciphering_Cpp_Coroutines.pdf) by Andreas Weis
 - [Mix Assertion, Logging, Unit Testing and Fuzzing: Build Safer Modern C++ Application](Presentations/Mix_Assertion_Logging_Unit_Testing_and_Fuzzing.pdf) by Xiaofan Sun
+- [Performance Engineering - Being Friendly to Your Hardware](Presentations/Performance_Engineering.pdf) by Ignas Bagdonas
 - [Back to Basics: Functional Programming in C++](Presentations/Back_To_Basics_Functional_Programming_In_Cpp.pdf) by Jonathan Müller
 - [SuperCharge Your IPC Programs With C++20 and CCI Pattern](Presentations/SuperCharge_Your_IPC_Programs_With_Cpp20_and_CCI_Pattern.pdf) by Arian Ajdari
 - [When Nanoseconds Matter: Ultrafast Trading Systems in C++](Presentations/When_Nanoseconds_Matter.pdf) by David Gross
