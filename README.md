@@ -121,7 +121,7 @@ and code from [CppCon 2024](https://cppcon.org).
 ## Posters
 
 - [C++26 for C++14 Developers: STL-Preview](Posters/Cpp26_for_Cpp14_Developers.pdf) by Tony Lee
-- [jsc::chunk_evently - Range adaptor for distributing work across tasks](Posters/jsc_chunk_evenly_ range_adaptor_for_distributing_work_across_tasks.pdf) by Mateusz Zych & Ivo Kabadshow
+- [jsc::chunk_evently - Range adaptor for distributing work across tasks](Posters/jsc_chunk_evenly_range_adaptor_for_distributing_work_across_tasks.pdf) by Mateusz Zych & Ivo Kabadshow
 - [micrograd++: A 500 line C++ Machine Learning Library](Posters/micrograd++.pdf) by Gautam Sharma
 - [Modern C++ for Parallelism in High Performance Computing](Posters/Modern_cpp_for_Parallelism_in_High_Performance_Computing.pdf) by Victor Eijkhout
 - [Named Optional Parameters - JavaScript Style](Posters/Named_Optional_Parameters_JavaScript_Style.pdf) by Brian Davidson
