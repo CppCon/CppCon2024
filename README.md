@@ -120,6 +120,7 @@ and code from [CppCon 2024](https://cppcon.org).
 
 ## Posters
 
+- [Behavior-driven Tests for Microservices-based Algo Trading System](Posters/Behavior-driven_Tests_for_Microservices-based_Algo_Trading_System.pdf) by Yuan Yuan
 - [C++26 for C++14 Developers: STL-Preview](Posters/Cpp26_for_Cpp14_Developers.pdf) by Tony Lee
 - [jsc::chunk_evently - Range adaptor for distributing work across tasks](Posters/jsc_chunk_evenly_range_adaptor_for_distributing_work_across_tasks.pdf) by Mateusz Zych & Ivo Kabadshow
 - [micrograd++: A 500 line C++ Machine Learning Library](Posters/micrograd++.pdf) by Gautam Sharma
