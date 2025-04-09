@@ -117,3 +117,14 @@ and code from [CppCon 2024](https://cppcon.org).
 - [C++ in the Cloud: One NIF at a Time with Elixir](Lightning%20Talks/Cpp_in_the_Cloud.pdf) by Sakshi Verma
 - [Can't we just synthesize std::tuple_element from get?](Lightning%20Talks/Can't_we_Just_Synthesize_stdtuple_element_from_Get.pdf) by Jonathan Müller
 - [The Main Points of C++](Lightning%20Talks/The_Main_Points_of_Cpp.pdf) by Miodrag Misha Djukic
+
+## Posters
+
+- [C++26 for C++14 Developers: STL-Preview](Posters/Cpp26_for_Cpp14_Developers.pdf) by Tony Lee
+- [jsc::chunk_evently - Range adaptor for distributing work across tasks](Posters/jsc_chunk_evenly_ range_adaptor_for_distributing_work_across_tasks.pdf) by Mateusz Zych & Ivo Kabadshow
+- [micrograd++: A 500 line C++ Machine Learning Library](Posters/micrograd++.pdf) by Gautam Sharma
+- [Modern C++ for Parallelism in High Performance Computing](Posters/Modern_cpp_for_Parallelism_in_High_Performance_Computing.pdf) by Victor Eijkhout
+- [Named Optional Parameters - JavaScript Style](Posters/Named_Optional_Parameters_JavaScript_Style.pdf) by Brian Davidson
+- [Pipeline architectures in C++](Posters/Pipeline_architectures_in_cpp.pdf) by Boguslaw Cyganek
+- [Real-Time Circuit Simulation with Wave Digital Filters in C++](Posters/Real-Time_Circuit_Simulation_with_Wave_Digital_Filters_in_Cpp.pdf) by Jatin Chowdhury
+- [stdx::interval, a library for intervals on totally ordered sets](Posters/stdx_interval_a_library_for_intervals_on_totally_ordered_sets.pdf) by Eric Hughes & Meadhbh Hamrick
